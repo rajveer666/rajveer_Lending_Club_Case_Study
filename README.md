@@ -11,12 +11,12 @@
 
 
 ## Table of Contents
-* [General Info]-This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures.
-*                Borrowers can easily access lower interest rate loans through a fast online interface.ther lending companies, lending loans to ‘risky’
-*                applicants is the largest source of financial loss (called credit loss). is the amount of money lost by the lender when the borrower
-*                refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders.
-*                In this case, the customers labelled as 'charged-off' are the 'defaulters'.
-*            
+ [General Info]-This company is the largest online loan marketplace, facilitating personal loans, business loans, and financing of medical procedures.
+               Borrowers can easily access lower interest rate loans through a fast online interface.ther lending companies, lending loans to ‘risky’
+                applicants is the largest source of financial loss (called credit loss). is the amount of money lost by the lender when the borrower
+                refuses to pay or runs away with the money owed. In other words, borrowers who default cause the largest amount of loss to the lenders.
+                In this case, the customers labelled as 'charged-off' are the 'defaulters'.
+            
 * [Technologies Used]-jupyter notebook
   
 * [Conclusions]- loan amount and annual income emerged as the most influential factor in loan approval decisions and also other columns  indicating the importance of an applicant's creditworthiness.
